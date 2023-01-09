@@ -1,7 +1,7 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/business_performance_analysis/blob/main/Girya_business_performance_analysis.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/06_business_performance_analysis/Girya_business_performance_analysis.ipynb)**
 
 ---
 
@@ -67,6 +67,6 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/business_performance_analysis/blob/main/Girya_business_performance_analysis.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/06_business_performance_analysis/Girya_business_performance_analysis.ipynb)**
 
 ---
