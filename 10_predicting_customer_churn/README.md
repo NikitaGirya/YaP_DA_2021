@@ -1,7 +1,7 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/predicting_customer_churn/blob/main/Girya_predicting_customer_churn.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/10_predicting_customer_churn/Girya_predicting_customer_churn.ipynb)**
 
 ---
 
@@ -56,6 +56,6 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/predicting_customer_churn/blob/main/Girya_predicting_customer_churn.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/10_predicting_customer_churn/Girya_predicting_customer_churn.ipynb)**
 
 ---
