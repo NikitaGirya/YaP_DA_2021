@@ -1,7 +1,7 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/08_moscow_catering_analysis/Girya_moscow_catering_analysis.ipynb)**
 
 ---
 
@@ -49,6 +49,6 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/08_moscow_catering_analysis/Girya_moscow_catering_analysis.ipynb)**
 
 ---
