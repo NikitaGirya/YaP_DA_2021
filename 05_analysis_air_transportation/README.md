@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://avatars.mds.yandex.net/get-zen_doc/2417786/pub_5ed9ee7575ee4029d02eea61_5ed9ee9f1cc9cb3b062c1d75/scale_1200" width=800 height=500 />
+  <img src="https://user-images.githubusercontent.com/89247751/211250243-20f559d9-a047-4309-b3d0-faf4ed515214.png" width=800 height=400 />
 </p>
 
 ---
