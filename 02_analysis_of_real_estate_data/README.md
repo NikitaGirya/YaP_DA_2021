@@ -1,7 +1,7 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_of_real_estate_data/blob/main/Girya_analysis_of_real_estate_data.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/02_analysis_of_real_estate_data/Girya_analysis_of_real_estate_data.ipynb)**
 
 ---
 
@@ -30,6 +30,6 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_of_real_estate_data/blob/main/Girya_analysis_of_real_estate_data.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/02_analysis_of_real_estate_data/Girya_analysis_of_real_estate_data.ipynb)**
 
 ---
