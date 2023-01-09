@@ -1,7 +1,7 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_air_transportation/blob/main/Girya_analysis_air_transportation.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/05_analysis_air_transportation/Girya_analysis_air_transportation.ipynb)**
 
 ---
 
@@ -94,6 +94,6 @@
 ---
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_air_transportation/blob/main/Girya_analysis_air_transportation.ipynb)**
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/05_analysis_air_transportation/Girya_analysis_air_transportation.ipynb)**
 
 ---
