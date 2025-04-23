@@ -1,8 +1,4 @@
----
-
 # Проекты из курса Яндекс Практикум </br> "Аналитик данных"
-
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89247751/211253628-77803730-0014-4797-a357-f386f0a0e42f.png" width=700 height=450 />
