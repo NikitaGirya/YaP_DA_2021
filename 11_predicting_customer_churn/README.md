@@ -1,15 +1,6 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/11_predicting_customer_churn/Girya_predicting_customer_churn.ipynb)**
-
----
-
 # Прогнозирование оттока клиентов фитнес-центра
 
 `pandas`  `numpy`  `sklearn`  `matplotlib`  `seaborn`
-
----
 
 <p align='center'>
   <img src='https://riseapps.co/wp-content/uploads/2020/10/Cover-1024x768.png' width=500 height=350 />
@@ -57,5 +48,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/11_predicting_customer_churn/Girya_predicting_customer_churn.ipynb)**
-
----
