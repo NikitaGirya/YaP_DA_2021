@@ -1,10 +1,3 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/03_promising_telecom_tariff/Girya_promising_telecom_tariff.ipynb)**
-
----
-
 # Определение перспективного тарифа для телеком-компании
 
 `pandas`  `numpy`  `scipy`  `matplotlib`  `seaborn`
@@ -71,5 +64,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/03_promising_telecom_tariff/Girya_promising_telecom_tariff.ipynb)**
-
----
