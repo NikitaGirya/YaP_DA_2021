@@ -3,7 +3,7 @@
 `pandas`  `numpy`  `itertools`  `plotly`  `Microsoft PowerPoint`
 
 <p align='center'>
-  <img src='https://images.a-a-ah.ru/uploads/items/9414/24911/large_Panoramnye-restorany-Moskvy-TOP-luchshih.jpeg' width=800 height=400 />
+  <img src='https://img.restoclub.ru/uploads/place/6/d/b/8/6db89f3841eec72124496f73bffc579a_w1200_h630.webp' width=1000 height=400 />
   Московский ресторан White Rabbit - обладатель звезды Michelin 2022
 </p>
 
