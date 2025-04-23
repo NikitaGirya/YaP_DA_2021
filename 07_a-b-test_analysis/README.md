@@ -1,15 +1,6 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/07_a-b-test_analysis/Girya_a-b-test_analysis.ipynb)**
-
----
-
 # Анализ А/В-теста
 
 `pandas`  `numpy`  `math`  `scipy`  `matplotlib`  `seaborn`  `plotly`
-
----
 
 <p align='center'>
   <img src='https://cdn.pushalert.co/img/ab-testing-push-notifications.gif' width=650 height=300 />
@@ -70,5 +61,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/07_a-b-test_analysis/Girya_a-b-test_analysis.ipynb)**
-
----
