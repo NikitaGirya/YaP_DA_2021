@@ -1,15 +1,6 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/09_analysis_user_behavior/Girya_analysis_user_behavior.ipynb)**
-
----
-
 # Анализ поведения пользователей мобильного приложения
 
 `pandas`  `numpy`  `math`  `scipy`  `plotly`
-
----
 
 <p align='center'>
   <img src='https://www.affde.com/uploads/article/84322/kl5ULCEKzke6Yrd0.gif' width=700 height=350 />
@@ -62,5 +53,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/09_analysis_user_behavior/Girya_analysis_user_behavior.ipynb)**
-
----
