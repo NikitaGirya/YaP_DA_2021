@@ -1,10 +1,3 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/01_borrowers_reliability_analysis/Girya_borrowers_reliability_analysis.ipynb)**
-
----
-
 # Исследование надёжности заёмщиков
 
 `pandas`  `pymystem3`
@@ -26,5 +19,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/01_borrowers_reliability_analysis/Girya_borrowers_reliability_analysis.ipynb)**
-
----
