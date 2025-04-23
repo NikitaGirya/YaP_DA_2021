@@ -1,15 +1,6 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/06_business_performance_analysis/Girya_business_performance_analysis.ipynb)**
-
----
-
 # Анализ бизнес-показателей
 
 `pandas`  `numpy`  `matplotlib`  `seaborn`  `plotly`
-
----
 
 <p align="center">
   <img src="https://memepedia.ru/wp-content/uploads/2019/06/stonks-template.png" width=550 height=400 />
@@ -68,5 +59,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/06_business_performance_analysis/Girya_business_performance_analysis.ipynb)**
-
----
