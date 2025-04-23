@@ -2,8 +2,6 @@
 
 `pandas`  `numpy`  `scipy`  `matplotlib`  `seaborn`
 
----
-
 <p align="center">
   <img src="https://www.protarif.info/news/thumbnails/b7ffcce08ddd1f9d9c3bf5dff6ccc580.jpeg" width=800 height=500 />
 </p>
