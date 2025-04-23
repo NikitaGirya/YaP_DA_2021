@@ -2,8 +2,6 @@
 
 `pandas`  `numpy`  `scipy`  `re`  `matplotlib`  `seaborn`
 
----
-
 <p align="center">
   <img src="https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/04/video-game-controller-0403201.jpg" width=800 height=500 />
 </p>
