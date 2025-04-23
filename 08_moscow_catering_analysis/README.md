@@ -1,6 +1,6 @@
 # Анализ рынка заведений общественного питания города Москвы
 
-`pandas`  `numpy`  `itertools`  `plotly`  `Microsoft PowerPoint`
+`pandas`  `numpy`  `itertools`  `plotly`
 
 <p align='center'>
   <img src='https://img.restoclub.ru/uploads/place/6/d/b/8/6db89f3841eec72124496f73bffc579a_w1200_h630.webp' width=1000 height=500 />
